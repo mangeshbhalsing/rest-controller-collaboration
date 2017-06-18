@@ -1,0 +1,5 @@
+com\niit\collaboration\rest\services\FriendController.class
+com\niit\collaboration\rest\services\BlogRestService.class
+com\niit\collaboration\rest\services\BlogCommentRestService.class
+com\niit\collaboration\rest\services\EventRestService.class
+com\niit\collaboration\rest\services\UserRestService.class
